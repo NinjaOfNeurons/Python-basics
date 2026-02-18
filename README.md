@@ -50,7 +50,7 @@ The goal is to build **strong fundamentals** while balancing Python revision alo
 -  Re-run all notebook cells
 -  Modify at least 1 example
 -  Write 2–3 takeaway points
-- No blind copy-paste
+-  No blind copy-paste
 
 ---
 
